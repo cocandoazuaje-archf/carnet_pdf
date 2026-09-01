@@ -1,0 +1,32 @@
+Aquí tienes los datos completos expresando las fechas en formato `dd-mm-yyyy`:
+
+* **Apellidos:** OCANDO RIOS
+* **Nombres:** MATHIAS GABRIEL
+* **Nacionalidad:** VEN
+* **Sexo:** M
+* **RUN:** 26.335.205-K
+* **Número Documento:** 602.634.467
+* **Fecha de Nacimiento:** 06-05-2015
+* **Fecha de Emisión:** 09-02-2021
+* **Fecha de Vencimiento:** 30-12-2021
+
+
+* **Apellidos:** OCANDO RIOS
+* **Nombres:** CARLOS SANTIAGO
+* **Nacionalidad:** CHILENA
+* **Sexo:** M
+* **RUN:** 25.798.754-K
+* **Número Documento:** 513.256.147
+* **Fecha de Nacimiento:** 09-06-2017
+* **Fecha de Emisión:** 06-10-2017
+* **Fecha de Vencimiento:** 09-06-2023
+
+
+creame un evento cumpleaños
+que se repita cada año para la fecha
+09-06 a nombre de CARLOS SANTIAGO
+
+
+creame un evento cumpleaños
+que se repita cada año para la fecha
+06-05 a nombre de MATHIAS GABRIEL
